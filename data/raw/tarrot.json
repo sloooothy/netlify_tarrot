@@ -1,312 +1,395 @@
-
 {
   "description": "塔羅牌及其基本資訊",
   "cards": [
     {
       "name": "愚者",
       "number": "0",
-      "arcana": "大阿爾克那"
+      "arcana": "大阿爾卡納"
     },
     {
       "name": "魔術師",
       "number": "1",
-      "arcana": "大阿爾克那"
+      "arcana": "大阿爾卡納"
     },
     {
       "name": "女祭司",
       "number": "2",
-      "arcana": "大阿爾克那"
+      "arcana": "大阿爾卡納"
     },
     {
       "name": "皇后",
       "number": "3",
-      "arcana": "大阿爾克那"
+      "arcana": "大阿爾卡納"
     },
     {
       "name": "皇帝",
       "number": "4",
-      "arcana": "大阿爾克那"
+      "arcana": "大阿爾卡納"
     },
     {
       "name": "教皇",
       "number": "5",
-      "arcana": "大阿爾克那"
+      "arcana": "大阿爾卡納"
     },
     {
       "name": "戀人",
       "number": "6",
-      "arcana": "大阿爾克那"
+      "arcana": "大阿爾卡納"
     },
     {
       "name": "戰車",
       "number": "7",
-      "arcana": "大阿爾克那"
+      "arcana": "大阿爾卡納"
     },
     {
       "name": "力量",
       "number": "8",
-      "arcana": "大阿爾克那"
+      "arcana": "大阿爾卡納"
     },
     {
       "name": "隱者",
       "number": "9",
-      "arcana": "大阿爾克那"
+      "arcana": "大阿爾卡納"
     },
     {
       "name": "命運之輪",
       "number": "10",
-      "arcana": "大阿爾克那"
+      "arcana": "大阿爾卡納"
     },
     {
       "name": "正義",
       "number": "11",
-      "arcana": "大阿爾克那"
+      "arcana": "大阿爾卡納"
     },
     {
       "name": "吊人",
       "number": "12",
-      "arcana": "大阿爾克那"
+      "arcana": "大阿爾卡納"
     },
     {
       "name": "死神",
       "number": "13",
-      "arcana": "大阿爾克那"
+      "arcana": "大阿爾卡納"
     },
     {
       "name": "節制",
       "number": "14",
-      "arcana": "大阿爾克那"
+      "arcana": "大阿爾卡納"
     },
     {
       "name": "惡魔",
       "number": "15",
-      "arcana": "大阿爾克那"
+      "arcana": "大阿爾卡納"
     },
     {
       "name": "塔",
       "number": "16",
-      "arcana": "大阿爾克那"
+      "arcana": "大阿爾卡納"
     },
     {
       "name": "星星",
       "number": "17",
-      "arcana": "大阿爾克那"
+      "arcana": "大阿爾卡納"
     },
     {
       "name": "月亮",
       "number": "18",
-      "arcana": "大阿爾克那"
+      "arcana": "大阿爾卡納"
     },
     {
       "name": "太陽",
       "number": "19",
-      "arcana": "大阿爾克那"
+      "arcana": "大阿爾卡納"
     },
     {
       "name": "審判",
       "number": "20",
-      "arcana": "大阿爾克那"
+      "arcana": "大阿爾卡納"
     },
     {
       "name": "世界",
       "number": "21",
-      "arcana": "大阿爾克那"
+      "arcana": "大阿爾卡納"
     },
     {
       "name": "聖杯一",
       "number": "1",
-      "arcana": "小阿爾克那"
+      "arcana": "小阿爾卡納"
     },
     {
       "name": "聖杯二",
       "number": "2",
-      "arcana": "小阿爾克那"
+      "arcana": "小阿爾卡納"
     },
     {
       "name": "聖杯三",
       "number": "3",
-      "arcana": "小阿爾克那"
+      "arcana": "小阿爾卡納"
     },
     {
       "name": "聖杯四",
       "number": "4",
-      "arcana": "小阿爾克那"
+      "arcana": "小阿爾卡納"
     },
     {
       "name": "聖杯五",
       "number": "5",
-      "arcana": "小阿爾克那"
+      "arcana": "小阿爾卡納"
     },
     {
       "name": "聖杯六",
       "number": "6",
-      "arcana": "小阿爾克那"
+      "arcana": "小阿爾卡納"
     },
     {
       "name": "聖杯七",
       "number": "7",
-      "arcana": "小阿爾克那"
+      "arcana": "小阿爾卡納"
     },
     {
       "name": "聖杯八",
       "number": "8",
-      "arcana": "小阿爾克那"
+      "arcana": "小阿爾卡納"
     },
     {
       "name": "聖杯九",
       "number": "9",
-      "arcana": "小阿爾克那"
+      "arcana": "小阿爾卡納"
     },
     {
       "name": "聖杯十",
       "number": "10",
-      "arcana": "小阿爾克那"
+      "arcana": "小阿爾卡納"
     },
     {
       "name": "聖杯侍者",
       "number": "11",
-      "arcana": "小阿爾克那"
+      "arcana": "小阿爾卡納"
     },
     {
       "name": "聖杯騎士",
       "number": "12",
-      "arcana": "小阿爾克那"
+      "arcana": "小阿爾卡納"
     },
     {
       "name": "聖杯皇后",
       "number": "13",
-      "arcana": "小阿爾克那"
+      "arcana": "小阿爾卡納"
     },
     {
       "name": "聖杯國王",
       "number": "14",
-      "arcana": "小阿爾克那"
+      "arcana": "小阿爾卡納"
     },
     {
       "name": "寶劍一",
       "number": "1",
-      "arcana": "小阿爾克那"
+      "arcana": "小阿爾卡納"
     },
     {
       "name": "寶劍二",
       "number": "2",
-      "arcana": "小阿爾克那"
+      "arcana": "小阿爾卡納"
     },
     {
       "name": "寶劍三",
       "number": "3",
-      "arcana": "小阿爾克那"
+      "arcana": "小阿爾卡納"
     },
     {
       "name": "寶劍四",
       "number": "4",
-      "arcana": "小阿爾克那"
+      "arcana": "小阿爾卡納"
     },
     {
       "name": "寶劍五",
       "number": "5",
-      "arcana": "小阿爾克那"
+      "arcana": "小阿爾卡納"
     },
     {
       "name": "寶劍六",
       "number": "6",
-      "arcana": "小阿爾克那"
+      "arcana": "小阿爾卡納"
     },
     {
       "name": "寶劍七",
       "number": "7",
-      "arcana": "小阿爾克那"
+      "arcana": "小阿爾卡納"
     },
     {
       "name": "寶劍八",
       "number": "8",
-      "arcana": "小阿爾克那"
+      "arcana": "小阿爾卡納"
     },
     {
       "name": "寶劍九",
       "number": "9",
-      "arcana": "小阿爾克那"
+      "arcana": "小阿爾卡納"
     },
     {
       "name": "寶劍十",
       "number": "10",
-      "arcana": "小阿爾克那"
+      "arcana": "小阿爾卡納"
     },
     {
       "name": "寶劍侍者",
       "number": "11",
-      "arcana": "小阿爾克那"
+      "arcana": "小阿爾卡納"
     },
     {
       "name": "寶劍騎士",
       "number": "12",
-      "arcana": "小阿爾克那"
+      "arcana": "小阿爾卡納"
     },
     {
       "name": "寶劍皇后",
       "number": "13",
-      "arcana": "小阿爾克那"
+      "arcana": "小阿爾卡納"
     },
     {
       "name": "寶劍國王",
       "number": "14",
-      "arcana": "小阿爾克那"
+      "arcana": "小阿爾卡納"
     },
     {
       "name": "權杖一",
       "number": "1",
-      "arcana": "小阿爾克那"
+      "arcana": "小阿爾卡納"
     },
     {
       "name": "權杖二",
       "number": "2",
-      "arcana": "小阿爾克那"
+      "arcana": "小阿爾卡納"
     },
     {
       "name": "權杖三",
       "number": "3",
-      "arcana": "小阿爾克那"
+      "arcana": "小阿爾卡納"
     },
     {
       "name": "權杖四",
       "number": "4",
-      "arcana": "小阿爾克那"
+      "arcana": "小阿爾卡納"
     },
     {
       "name": "權杖五",
       "number": "5",
-      "arcana": "小阿爾克那"
+      "arcana": "小阿爾卡納"
     },
     {
       "name": "權杖六",
       "number": "6",
-      "arcana": "小阿爾克那"
+      "arcana": "小阿爾卡納"
     },
     {
       "name": "權杖七",
       "number": "7",
-      "arcana": "小阿爾克那"
+      "arcana": "小阿爾卡納"
     },
     {
       "name": "權杖八",
       "number": "8",
-      "arcana": "小阿爾克那"
+      "arcana": "小阿爾卡納"
     },
     {
       "name": "權杖九",
       "number": "9",
-      "arcana": "小阿爾克那"
+      "arcana": "小阿爾卡納"
     },
     {
       "name": "權杖十",
       "number": "10",
-      "arcana": "小阿爾克那"
+      "arcana": "小阿爾卡納"
     },
     {
       "name": "權杖侍者",
       "number": "11",
-      "arcana": "小阿爾克那"
+      "arcana": "小阿爾卡納"
     },
     {
       "name": "權杖騎士",
       "number": "12",
+      "arcana": "小阿爾卡納"
+    },
+    {
+      "name": "權杖皇后",
+      "number": "13",
+      "arcana": "小阿爾卡納"
+    },
+    {
+      "name": "權杖國王",
+      "number": "14",
+      "arcana": "小阿爾卡納"
+    },
+    {
+      "name": "錢幣一",
+      "number": "1",
+      "arcana": "小阿爾卡納"
+    },
+    {
+      "name": "錢幣二",
+      "number": "2",
+      "arcana": "小阿爾卡納"
+    },
+    {
+      "name": "錢幣三",
+      "number": "3",
+      "arcana": "小阿爾卡納"
+    },
+    {
+      "name": "錢幣四",
+      "number": "4",
+      "arcana": "小阿爾卡納"
+    },
+    {
+      "name": "錢幣五",
+      "number": "5",
+      "arcana": "小阿爾卡納"
+    },
+    {
+      "name": "錢幣六",
+      "number": "6",
+      "arcana": "小阿爾卡納"
+    },
+    {
+      "name": "錢幣七",
+      "number": "7",
+      "arcana": "小阿爾卡納"
+    },
+    {
+      "name": "錢幣八",
+      "number": "8",
+      "arcana": "小阿爾卡納"
+    },
+    {
+      "name": "錢幣九",
+      "number": "9",
+      "arcana": "小阿爾卡納"
+    },
+    {
+      "name": "錢幣十",
+      "number": "10",
+      "arcana": "小阿爾卡納"
+    },
+    {
+      "name": "錢幣侍者",
+      "number": "11",
+      "arcana": "小阿爾卡納"
+    },
+    {
+      "name": "錢幣騎士",
+      "number": "12",
+      "arcana": "小阿爾卡納"
+    },
+    {
+      "name": "錢幣皇后",
+      "number": "13",
+      "arcana": "小阿爾卡納"
+    },
+    {
+      "name": "錢幣國王",
+      "number": "14",
+      "arcana": "小阿爾卡納"
+    }
+  ]
+}
